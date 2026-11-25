@@ -12,7 +12,7 @@
         "@angular/platform-browser-dynamic": "19.2.15",
         "@angular/platform-server": "19.2.15",
         "@angular/router": "19.2.15",
-        "@angular/ssr": "19.2.19",
+        "@angular/ssr": "20.3.36",
         "@docsearch/css": "4.3.1",
         "@docsearch/js": "4.3.1",
         "@ng-web-apis/universal": "4.12.2",
