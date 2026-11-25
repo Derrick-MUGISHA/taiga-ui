@@ -5,7 +5,7 @@
         "@angular/animations": "19.2.15",
         "@angular/cdk": "19.2.19",
         "@angular/common": "19.2.15",
-        "@angular/core": "19.2.15",
+        "@angular/core": "20.3.28",
         "@angular/forms": "19.2.15",
         "@angular/localize": "19.2.15",
         "@angular/platform-browser": "19.2.15",
